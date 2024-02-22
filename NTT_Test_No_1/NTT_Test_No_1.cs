@@ -65,35 +65,33 @@ public class NTT_Test_No_1
 
     }
 
-    public static string AnswerUsingStandardFormat(int[] dataArray, int dataSum)
+    public static string AnswerUsingStandardFormat(int[] numberEntered, int referenceSummarizeNumber)
     {
         try
         {
-            List<string> finalResult = new List<string>();
-            StringBuilder sbResult = new StringBuilder();
-            int totalResult = 0;
+            List<string> numberEnteredResult = new List<string>();
+            StringBuilder stringBuilderResult = new StringBuilder();
 
-            sbResult.Append("[");
-            for (int start = 0; start <= dataArray.Length; start++)
+            stringBuilderResult.Append("[");
+
+            for (int start = 0; start <= numberEntered.Length; start++)
             {
-                if (start < dataArray.Length - 1)
+                if (start < numberEntered.Length - 1)
                 {
-                    int sumArray = dataArray[start] + dataArray[start + 1];
-                    if (sumArray == dataSum)
+                    int summarizeNumberEntered = numberEntered[start] + numberEntered[start + 1];
+                    if (summarizeNumberEntered == referenceSummarizeNumber)
                     {
-                        finalResult.Add("[" + dataArray[start] + "," + dataArray[start + 1] + "]");
-                        totalResult++;
+                        numberEnteredResult.Add("[" + numberEntered[start] + "," + numberEntered[start + 1] + "]");
                     }
                 }
             }
-            string results = string.Join(",", finalResult);
-            sbResult.Append(results);
-            sbResult.Append("]");
+            string resultsStandarFormat = string.Join(",", numberEnteredResult);
+            stringBuilderResult.Append(resultsStandarFormat);
+            stringBuilderResult.Append("]");
 
-            Console.Write(sbResult);
+            Console.Write(stringBuilderResult);
 
-
-            return sbResult.ToString();
+            return stringBuilderResult.ToString();
         }
         catch (Exception ex)
         {
