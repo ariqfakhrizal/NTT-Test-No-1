@@ -1,0 +1,44 @@
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\NTT_Test_No_1.exe
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\NTT_Test_No_1.deps.json
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\NTT_Test_No_1.runtimeconfig.json
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\NTT_Test_No_1.dll
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\NTT_Test_No_1.pdb
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test_No_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test_No_1.AssemblyInfoInputs.cache
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test_No_1.AssemblyInfo.cs
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test_No_1.csproj.CoreCompileInputs.cache
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test_No_1.dll
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\refint\NTT_Test_No_1.dll
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test_No_1.pdb
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test_No_1.genruntimeconfig.cache
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\ref\NTT_Test_No_1.dll
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test_No_1.csproj.AssemblyReference.cache
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test_No_1.csproj.CopyComplete
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\bin\Debug\net7.0\NTT_Test_No_1.exe
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\bin\Debug\net7.0\NTT_Test_No_1.deps.json
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\bin\Debug\net7.0\NTT_Test_No_1.runtimeconfig.json
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\bin\Debug\net7.0\NTT_Test_No_1.dll
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\bin\Debug\net7.0\NTT_Test_No_1.pdb
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\obj\Debug\net7.0\NTT_Test_No_1.csproj.AssemblyReference.cache
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\obj\Debug\net7.0\NTT_Test_No_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\obj\Debug\net7.0\NTT_Test_No_1.AssemblyInfoInputs.cache
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\obj\Debug\net7.0\NTT_Test_No_1.AssemblyInfo.cs
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\obj\Debug\net7.0\NTT_Test_No_1.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\obj\Debug\net7.0\NTT_Test_No_1.csproj.CopyComplete
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\obj\Debug\net7.0\NTT_Test_No_1.dll
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\obj\Debug\net7.0\refint\NTT_Test_No_1.dll
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\obj\Debug\net7.0\NTT_Test_No_1.pdb
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\obj\Debug\net7.0\NTT_Test_No_1.genruntimeconfig.cache
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_1\NTT-Test-No-1\NTT_Test_No_1\obj\Debug\net7.0\ref\NTT_Test_No_1.dll

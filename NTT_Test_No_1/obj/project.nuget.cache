@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "77VOvR47HzxWij0gj0rJpPTxGmRm/up0wuq/26QZchDhkkoabsp7n+QYPaJOzI9cMiE4+IGFowu1xmarrHv7Gw==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Github\\NTT Ltd Pte - Github\\ProgrammingTest_No_1\\NTT-Test-No-1\\NTT_Test_No_1\\NTT_Test_No_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M. Ariq Fakhrizal\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\M. Ariq Fakhrizal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\M. Ariq Fakhrizal\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\M. Ariq Fakhrizal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\M. Ariq Fakhrizal\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\M. Ariq Fakhrizal\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

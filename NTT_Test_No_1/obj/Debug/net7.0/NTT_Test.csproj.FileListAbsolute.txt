@@ -1,0 +1,14 @@
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\NTT_Test.exe
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\NTT_Test.deps.json
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\NTT_Test.runtimeconfig.json
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\NTT_Test.dll
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\bin\Debug\net7.0\NTT_Test.pdb
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test.AssemblyInfoInputs.cache
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test.AssemblyInfo.cs
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test.csproj.CoreCompileInputs.cache
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test.dll
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\refint\NTT_Test.dll
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test.pdb
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\NTT_Test.genruntimeconfig.cache
+D:\Workspace\Target Company\NTT Ltd\NTT_Test\obj\Debug\net7.0\ref\NTT_Test.dll
