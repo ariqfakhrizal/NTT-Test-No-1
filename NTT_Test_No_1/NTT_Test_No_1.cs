@@ -12,48 +12,48 @@ public class NTT_Test_No_1
 {
     public static void Main(string[] args)
     {
-        int[] dataArray = new int[] { 4, 6, 15, 25, 45, 2, 8 };
-        int sumArray = 10;
+        int[] numberEntered = new int[] { 4, 6, 15, 25, 45, 2, 8 };
+        int referenceSummarizeNumber = 10;
 
         Console.Write("output A :");
         
         /*The answer format  will have a same result as expected */
-        AnswerUsingStandardFormat(dataArray, sumArray);
+        AnswerUsingStandardFormat(numberEntered, referenceSummarizeNumber);
                 
         Console.WriteLine();
 
         Console.Write("output B :");
-        dataArray = new int[] { 4, 7, 12, 1, 4, 8, 8 };
-        sumArray = 12;
+        numberEntered = new int[] { 4, 7, 12, 1, 4, 8, 8 };
+        referenceSummarizeNumber = 12;
 
         /*The answer format will have a same result as expected, but it will containts a double quotes because the codes using JSON serialization */
-        AnswerUsingJSON(dataArray, sumArray);
+        AnswerUsingJsonFormat(numberEntered, referenceSummarizeNumber);
     }
 
-    public static string AnswerUsingJSON(int[] dataArray, int dataSum)
+    public static string AnswerUsingJsonFormat(int[] numberEntered, int referenceSummarizeNumber)
     {
         try
         {
-            List<string> dataResult = new List<string>();
+            List<string> numberEnteredResult = new List<string>();
 
-            for (int start = 0; start <= dataArray.Length; start++)
+            for (int start = 0; start <= numberEntered.Length; start++)
             {
-                if (start < dataArray.Length - 1)
+                if (start < numberEntered.Length - 1)
                 {
-                    int sumArray = dataArray[start] + dataArray[start + 1];
-                    if (sumArray == dataSum)
+                    int summarizeNumberEntered = numberEntered[start] + numberEntered[start + 1];
+                    if (summarizeNumberEntered == referenceSummarizeNumber)
                     {
-                        dataResult.Add(dataArray[start] + "," + dataArray[start + 1]);
+                        numberEnteredResult.Add(numberEntered[start] + "," + numberEntered[start + 1]);
                     }
                 }
             }
 
-            var arrayDataResult = dataResult.ToArray();
-            List<string[]> listArr = arrayDataResult.Chunk(1).ToList();
-            var json = JsonSerializer.Serialize(listArr);
-            Console.WriteLine(json);
+            var numberConverted = numberEnteredResult.ToArray();
+            List<string[]> chunkedNumberConverted = numberConverted.Chunk(1).ToList();
+            var resultJsonFormat = JsonSerializer.Serialize(chunkedNumberConverted);
+            Console.WriteLine(resultJsonFormat);
 
-            return json.Replace(" ", "");
+            return resultJsonFormat.Replace(" ", "");
         }
         catch (Exception ex)
         {
